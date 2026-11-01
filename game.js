@@ -1,4 +1,4 @@
-
+ 
 const buildingImage = new Image();
 buildingImage.src = "building-background.jpg";
 
